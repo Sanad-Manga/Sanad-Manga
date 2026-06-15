@@ -70,7 +70,6 @@
 
 - 🎓 CS sophomore @ GIU, specializing in Data Science
 - 🤖 Interested in LLMs, RAG, and building AI tools that solve real problems
-- 🏆 5 years with TEDxManaretAlFaroukSchool — PR Member → PR Head → PR Operations
 - 🎮 Gamer when I'm not pushing commits
 - 📍 Cairo, Egypt
 
