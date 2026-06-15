@@ -2,7 +2,7 @@
 
 # Hey, I'm Ahmed Sanad 👋
 
-**CS Student @ GIU · Data Science Specialization · Building with AI**
+**CS Student @ GIU · Data Science Major · Building with AI**
 
 *Sophomore exploring the intersection of AI and real-world systems — one broken thing at a time.*
 
