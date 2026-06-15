@@ -18,8 +18,8 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **[GIU-Nexus](https://github.com/Sanad-Manga/GIU-Nexus)** | AI-powered career & talent platform with job classification, skill extraction, and recommendations via HuggingFace | MERN · HuggingFace · Docker · Railway | 🟡 In Progress |
 | **AI Debugging Coach** | RAG-based tool that diagnoses system errors and connects them to studied course material via local LLMs | Python · LangChain · Ollama · RAG | 🔵 In Development |
+| **[GIU-Nexus](https://github.com/Sanad-Manga/GIU-Nexus)** | AI-powered career & talent platform with job classification, skill extraction, and recommendations via HuggingFace | MERN · HuggingFace · Docker · Railway | ✅ Complete |
 | **[HR Management System](https://github.com/MohabHindawy/HR-System)** | Enterprise HRMS — hand-designed ERD with 20+ entities and 133 stored procedures across 5 role-based access levels | SQL Server · .NET | ✅ Complete |
 
 ---
