@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmedsanad.vercel.app-1A3A6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedsanad.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--sanad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-sanad-108aa5180)
-[![Email](https://img.shields.io/badge/Email-ahmedsanad963@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsanad963@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ahmedsanad.projects@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsanad.projects@gmail.com)
 
 </div>
 
