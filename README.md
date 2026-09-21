@@ -19,6 +19,7 @@
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | **AI Debugging Coach** | RAG-based tool that diagnoses system errors and connects them to studied course material via local LLMs | Python · LangChain · Ollama · RAG | 🔵 In Development |
+| **[NeuroPeds AI](https://github.com/Sanad-Manga/Pediatric-Brain-Tumor-Model)** | Pediatric brain tumor segmentation on BraTS-PEDs 2024 — a 2D U-Net ensemble (0.754 mean Dice on 82 held-out patients, 0.854 whole-tumor) with a [live Streamlit demo](https://neuropeds-ai.streamlit.app). Built for a medical AI workshop | Python · PyTorch · MONAI · Streamlit | ✅ Complete |
 | **[GIU-Nexus](https://github.com/Sanad-Manga/GIU-Nexus)** | AI-powered career & talent platform with job classification, skill extraction, and recommendations via HuggingFace | MERN · HuggingFace · Docker · Railway | ✅ Complete |
 | **[HR Management System](https://github.com/MohabHindawy/HR-System)** | Enterprise HRMS — hand-designed ERD with 20+ entities and 133 stored procedures across 5 role-based access levels | SQL Server · .NET | ✅ Complete |
 
@@ -44,6 +45,9 @@
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/MONAI-3F7CAC?style=flat-square&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="48"/>
 
 **DevOps & Tools**
 
@@ -69,7 +73,7 @@
 ## 🎯 A Bit About Me
 
 - 🎓 CS sophomore @ GIU, specializing in Data Science
-- 🤖 Interested in LLMs, RAG, and building AI tools that solve real problems
+- 🤖 Interested in LLMs, RAG, medical imaging, and building AI tools that solve real problems
 - 🎮 Gamer when I'm not pushing commits
 - 📍 Cairo, Egypt
 
